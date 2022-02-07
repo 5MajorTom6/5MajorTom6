@@ -1,4 +1,4 @@
-Hello, My name is Tom and I'm gonna be an Electrical Engineer! I love hunting, fishing, and gaming. When I can't be doing those things, I'm usually working.
+Hello, My name is Tom and I'm an Electrical Engineer! I love hunting, fishing, and gaming. When I can't be doing those things, I'm usually working.
 
 I'm interested in hardware design, pcb design, and control systems. I would very much like to work in the Aerospace field and design avionics.
 
